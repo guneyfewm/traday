@@ -1,0 +1,8 @@
+.choosePhoto{
+
+}
+.choosePhoto:hover {
+    transform: scale(1.2) 3s;
+    transition:  all ease-in 0.5s;
+
+}

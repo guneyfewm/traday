@@ -3,6 +3,13 @@ const nextConfig = {
   experimental: {
     appDir: true,
   },
-}
+};
 
-module.exports = nextConfig
+module.exports = {
+  experimental: {
+    appDir: true,
+  },
+  env: {
+    SECRETKEY: "krwhwehgjkeg32.g24*4359430534c3253jgirejgfWQfwqfwGewhe",
+  },
+};
